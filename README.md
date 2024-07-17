@@ -1,3 +1,6 @@
+> [!important]
+> Safari support will be added soon in a different repo.
+
 > NOTICE: We are aware that there is an outstanding connectivity issue with the Safari Extension. Unfortunately, a fix for this is not likely to be released until the next major version of the Extension. In the meantime, if it works for you that is fine. If not, we recomemnd that you use another browser - Chrome and Firefox are most widely used and have the least issues. If this still doesn't work, please reach our to Support on our [Discord](https://discord.gg/premid)
 
 <div align="center">
